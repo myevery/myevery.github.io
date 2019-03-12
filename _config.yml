@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: efdf9a75ee9c1226e95f                            #生成的clientID
   clientSecret: e93ec7c056bc39b1c8012209820395a8e7e45e09    #生成的clientSecret
-  repo: http://myevery.github.io    #仓库名称
+  repo: myevery.github.io    #仓库名称
   owner: myevery    #github用户名
   admin: myevery
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
