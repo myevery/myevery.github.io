@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-MY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     郑明洋_同学
 zhihu_username:     
 github_username:    myevery
 facebook_username:  
@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
+  repo: .github.io    #仓库名称
   owner: myevery    #github用户名
   admin: myevery
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
