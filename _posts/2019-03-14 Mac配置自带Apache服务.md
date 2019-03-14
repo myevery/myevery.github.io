@@ -1,15 +1,17 @@
 
 ---
 layout:     post
-title:      Xcode命令行工具管理
-subtitle:   如何切换Xcode命令行工具
-date:       2018-05-05
-author:     BY
+title:      Mac配置自带服务器
+subtitle:   Mac自带Apache的配置
+date:       2019-03-14
+author:     MY
 header-img: img/post-bg-kuaidi.jpg
 catalog: true
 tags:
-    - Xcode
-    - iOS
+    - Mac
+    - Apache
+    - 服务器
+    - 配置
 ---
 
 ## 安装
